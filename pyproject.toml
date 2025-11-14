@@ -1,0 +1,7 @@
+[project]
+name = "aws-glue-etl"
+version = "0.1.0"
+description = "Scripts for AWS Glue ETL"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
